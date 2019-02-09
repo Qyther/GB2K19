@@ -5,7 +5,10 @@ How to install:
 
 
 Right click in the downloaded folder and select "Git Bash Here",
+
 then you want to type npm install so it installs, when it is installed go ahead and type nodemon,
+
 if you did all the steps correctly it should start running (Wait for it to say Initialized in ...ms,
+
 
 Enjoy!
